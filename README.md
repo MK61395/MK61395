@@ -33,7 +33,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MK61395&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK61395&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK61395&layout=compact&theme=dark)
 
 ## Profile Trophies:
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=MK61395)
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=MK61395&theme=darkhub)
