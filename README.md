@@ -31,3 +31,9 @@
 ## GitHub Stats:
 ![Muhammad Kashif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MK61395&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MK61395&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MK61395&layout=compact)
+
+## Profile Trophies:
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=MK61395)
