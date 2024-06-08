@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Artificial Intelligence and ML Algorithm
+- 🔭 I’m currently working on Artificial Intelligence and ML Algorithms
 - 🌱 I’m currently learning Data Science
 - ⚡ Fun fact: I can bowl faster than you
 
