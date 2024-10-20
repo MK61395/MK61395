@@ -13,6 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MK61395&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+[![trophy](https://github-trophies.vercel.app/?username=MK61395&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
 ![](https://github-profile-trophy.vercel.app/?username=MK61395&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
