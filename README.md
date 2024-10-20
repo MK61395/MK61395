@@ -13,8 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MK61395&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-trophies.vercel.app/?username=MK61395&theme=radical)](https://github.com/lucthienphong1120/github-trophies)
-![](https://github-profile-trophy.vercel.app/?username=MK61395&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=MK61395&theme=radical&no-frame=false&no-bg=false&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MK61395&icon=0&color=1)](https://visitcount.itsvg.in)
