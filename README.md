@@ -14,7 +14,7 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-trophies.vercel.app/?username=MK61395&theme=radical)](https://github.com/lucthienphong1120/github-trophies)
-![](https://github-profile-trophy.vercel.app/?username=MK61395&theme=radical&no-frame=false&no-bg=false&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=MK61395&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MK61395&icon=0&color=1)](https://visitcount.itsvg.in)
