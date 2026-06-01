@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React<br>🌱 I’m currently learning Data Science<br>⚡ Fun fact: I can bowl faster than you
+🔭 I’m currently working on NextJS<br>🌱 I’m currently learning Data Science<br>⚡ Fun fact: I can bowl faster than you
 
 
 ## 🌐 Socials:
